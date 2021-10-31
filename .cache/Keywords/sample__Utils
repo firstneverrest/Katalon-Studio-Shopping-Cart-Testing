@@ -1,0 +1,100 @@
+{
+  "keywordFileContentHash": "FD602863546913647007FDD0D7982DD0",
+  "keywordClasses": [
+    {
+      "name": "sample.Utils",
+      "keywordMethods": [
+        {
+          "name": "clickOnSelect2",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Click on select2 text box.\r\n\t *\r\n\t * @param to The select2 box object that tagged as \"select\" in the document.\r\n\t */"
+        },
+        {
+          "name": "findContainer",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Find the container class after the select element.\r\n\t *\r\n\t * @param to The select2 box object that tagged as \"select\" in the document.\r\n\t * @return The WebElement that seen as container class after the select element.\r\n\t */"
+        },
+        {
+          "name": "selectResult",
+          "parameters": [
+            {
+              "name": "option",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "subContainerOpenClass",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Select the result after filling text search to select2 text box.\r\n\t *\r\n\t * @param option The label of option need to select.\r\n\t * @param subContainerOpenClass The Xpath string of the container class.\r\n\t */"
+        },
+        {
+          "name": "enterText",
+          "parameters": [
+            {
+              "name": "option",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Enter text search to the select2 text box.\r\n\t *\r\n\t * @param option The label of option need to search.\r\n\t * @return The Xpath string of the container class.\r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
