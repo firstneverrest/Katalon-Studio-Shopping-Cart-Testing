@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Order and check out a single product using coupon</name>
+   <name>47-Click read more in Shop page</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>00fd7c05-77c6-4965-95b1-a1121dfdfdc1</testCaseGuid>
+   <testCaseGuid>d72feae1-5948-4f85-8f8b-9097e4f4110b</testCaseGuid>
 </TestCaseEntity>

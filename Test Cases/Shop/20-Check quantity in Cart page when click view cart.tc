@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>20-Check quantity in Cart page when click view cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3b5c910-abcb-446e-b460-852daf7cd5f3</testCaseGuid>
+</TestCaseEntity>

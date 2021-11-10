@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>30-Click apply coupon with invalid coupon code</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01bfb5d0-0fbb-4950-8817-bf0aacda2c7c</testCaseGuid>
+</TestCaseEntity>
