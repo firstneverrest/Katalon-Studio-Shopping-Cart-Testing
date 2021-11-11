@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>29-Click apply coupon without coupon code</name>
+   <name>03-Click apply coupon without coupon code</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>1dc1cc04-793a-4b78-9ed5-b6be6ee4c6b1</testCaseGuid>
