@@ -24,3 +24,25 @@ Navigate to https://docs.katalon.com/katalon-studio/docs/shopping-cart-prj.html 
 ### Katalon Studio
 
 [Katalon Studio](https://www.katalon.com) is a free and complete automation testing solution for Web, Mobile, and API testing with modern methodologies (Data-Driven Testing, TDD/BDD, Page Object Model, etc.) as well as advanced integration (JIRA, qTest, Slack, CI, Katalon TestOps, etc.). Learn more about [Katalon Studio features](https://www.katalon.com/features/).
+
+## How to test with Katalon Studio
+
+### Test Url
+
+- Get Url
+- Verify Match
+
+```groovy
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://cms.demo.katalon.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_Katalon Shop  Katalon Ecommerce/a_Cart'))
+
+link_cart = WebUI.getUrl()
+
+WebUI.verifyMatch(link_cart, 'https://cms.demo.katalon.com/cart/', false)
+
+WebUI.closeBrowser()
+
+```
