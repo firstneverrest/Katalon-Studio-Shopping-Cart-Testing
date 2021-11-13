@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>36-Searching products</name>
+   <name>13-Click zoom product image</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>4a6e51ea-0969-46e2-931c-5b84fb7cd82f</testCaseGuid>
+   <testCaseGuid>dbeb7096-f765-4297-8227-ee6c5bda51be</testCaseGuid>
 </TestCaseEntity>

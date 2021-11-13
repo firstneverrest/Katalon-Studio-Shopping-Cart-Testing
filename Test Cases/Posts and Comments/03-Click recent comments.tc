@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>53-Click archives</name>
+   <name>03-Click recent comments</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>baff6092-4ed7-492b-ae70-7699e2ba8d64</testCaseGuid>
+   <testCaseGuid>3f6c1123-91b7-4b30-9c8d-c4d3f632b0b5</testCaseGuid>
 </TestCaseEntity>

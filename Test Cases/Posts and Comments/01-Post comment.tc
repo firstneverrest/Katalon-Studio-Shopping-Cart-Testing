@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>42-Write a review</name>
+   <name>01-Post comment</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>aa6b13ef-5846-4ff3-a1a4-6186fad1e7c6</testCaseGuid>
+   <testCaseGuid>b62830e6-f065-4367-9f81-7f43e77c320c</testCaseGuid>
 </TestCaseEntity>

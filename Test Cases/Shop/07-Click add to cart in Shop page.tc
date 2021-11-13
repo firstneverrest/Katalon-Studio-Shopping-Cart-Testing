@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>54-Click Katalon Shop logo</name>
+   <name>07-Click add to cart in Shop page</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>aa723d64-7cd6-4429-9eec-f84c29a8c993</testCaseGuid>
+   <testCaseGuid>7b37bf09-f58a-46a6-a58b-378bf5b93efb</testCaseGuid>
 </TestCaseEntity>

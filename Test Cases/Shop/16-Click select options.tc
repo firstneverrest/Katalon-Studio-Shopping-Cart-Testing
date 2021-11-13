@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>37-Click a product image</name>
+   <name>16-Click select options</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>c12837bb-a556-4108-9b41-2ab7f05802d7</testCaseGuid>
+   <testCaseGuid>9c581ef2-f9b6-4215-a558-963a351671d9</testCaseGuid>
 </TestCaseEntity>

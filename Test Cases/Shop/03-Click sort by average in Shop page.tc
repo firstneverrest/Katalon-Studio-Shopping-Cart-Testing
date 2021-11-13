@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>51-Click reply button</name>
+   <name>03-Click sort by average in Shop page</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>30a9b349-78c8-4521-a786-f83fb87205dc</testCaseGuid>
+   <testCaseGuid>2b781ce7-b791-4f2e-846b-f2afd3e19b7d</testCaseGuid>
 </TestCaseEntity>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>13-Check URL when click Shop page</name>
+   <name>14-Write a review</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>1a3c4e9f-e51e-4a7a-9a9a-38e6a5fe31f3</testCaseGuid>
+   <testCaseGuid>aa6b13ef-5846-4ff3-a1a4-6186fad1e7c6</testCaseGuid>
 </TestCaseEntity>
