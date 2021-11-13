@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>32-Click remove coupon in Checkout page</name>
+   <name>04-Click place order with invalid zip code</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ec294db4-4200-4bf5-94c6-32a12d97b3de</testCaseGuid>
+   <testCaseGuid>95124c6d-b83e-48de-a2f8-1e02b8876744</testCaseGuid>
 </TestCaseEntity>

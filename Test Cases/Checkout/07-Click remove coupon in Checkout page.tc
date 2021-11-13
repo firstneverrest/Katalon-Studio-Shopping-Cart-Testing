@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>27-Click ship to different address</name>
+   <name>07-Click remove coupon in Checkout page</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>48469e1d-83fd-4388-bb03-19c286829b26</testCaseGuid>
+   <testCaseGuid>ec294db4-4200-4bf5-94c6-32a12d97b3de</testCaseGuid>
 </TestCaseEntity>

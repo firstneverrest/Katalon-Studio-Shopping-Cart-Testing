@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>2-Go to Checkout page when there are no goods in the cart</name>
+   <name>01-Go to Checkout page when there are no goods in the cart</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>c3312a85-a110-4be1-baea-7699de86c01d</testCaseGuid>
