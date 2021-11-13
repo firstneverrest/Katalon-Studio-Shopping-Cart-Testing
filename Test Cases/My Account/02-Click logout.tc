@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>12-Click lost your password</name>
+   <name>02-Click logout</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>54610228-570f-4b09-ba3a-0d5e47537c22</testCaseGuid>
+   <testCaseGuid>9ae4ff8f-50fe-4f7e-9eff-99312f9d29fc</testCaseGuid>
 </TestCaseEntity>
